@@ -1,4 +1,4 @@
-# Discord Github RSS Notifer
+# Discord Github Release Notifer
 This is a simple bot that sends a message to a discord channel when a new release is made to a 
 github repository.
 
